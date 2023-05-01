@@ -8,4 +8,4 @@ the project is a poster of films from the Kинопоиск in different section
 on the main page, you can see movies by category, from the best movies to digital releases. The search function works the same way.
 
 ***
-[movieApp](https://www.google.com/webhp?hl=ru&sa=X&ved=0ahUKEwiYgqKQjdT-AhXvwosKHWadDYgQPAgI)
+[movieApp](https://dosymuss.github.io/neobis_front_cinema/)
